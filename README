@@ -34,6 +34,7 @@ Find your role below:
 * Academic Researcher - Studying kernel internals and architecture
 * Security Expert - Hardening and vulnerability analysis
 * Backport/Maintenance Engineer - Maintaining stable kernels
+* Performance Engineer - Profiling, benchmarking, optimizing kernel performance and resources
 * System Administrator - Configuring and troubleshooting
 * Maintainer - Leading subsystems and reviewing patches
 * Hardware Vendor - Writing drivers for new hardware
