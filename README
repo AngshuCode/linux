@@ -35,6 +35,7 @@ Find your role below:
 * Security Expert - Hardening and vulnerability analysis
 * Backport/Maintenance Engineer - Maintaining stable kernels
 * System Administrator - Configuring and troubleshooting
+* Performance Engineer - Profiling and optimizing kernel performance
 * Maintainer - Leading subsystems and reviewing patches
 * Hardware Vendor - Writing drivers for new hardware
 * Distribution Maintainer - Packaging kernels for distros
